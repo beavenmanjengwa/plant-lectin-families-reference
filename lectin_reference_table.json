@@ -91,7 +91,7 @@
     "total_families": 12,
     "pfam_domains": 10,
     "created_date": "2026-04-03",
-    "usage": "Genome-wide lectin identification, phylogenetic analysis, functional annotation",
+    "abbreviations": "ABA: Agaricus bisporus agglutinin; CRA: Cratylia lectin; EUL: Euonymus lectin; GNA: Galanthus nivalis agglutinin; JRL: Jacalin-related lectin; LysM: Lysin motif",
     "reference": "Van Damme, E. J., Lannoo, N., & Peumans, W. J. (2008). Plant lectins. In Advances in botanical research (pp. 107–209). https://doi.org/10.1016/s0065-2296(08)00403-5"
   }
 }

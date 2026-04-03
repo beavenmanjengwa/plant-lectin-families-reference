@@ -17,13 +17,7 @@
 | Nictaba | *Nicotiana tabacum* | PP2 | PF14299 | GenBank: AAK84134.1 |
 | Ricin B | *Ricinus communis* | Ricin_B_lectin | PF00652 | GenBank: 2AAI_B |
 
-## Usage
-
-This reference table provides essential information for:
-- Genome-wide lectin identification using HMM profiles
-- Phylogenetic analysis of plant lectin families
-- Functional annotation of lectin-like sequences
-- Comparative genomics studies
+Abbreviations: ABA: *Agaricus bisporus* agglutinin; CRA: Cratylia lectin; EUL: Euonymus lectin; GNA: *Galanthus nivalis* agglutinin; JRL: Jacalin-related lectin; LysM: Lysin motif
 
 ## Reference
 

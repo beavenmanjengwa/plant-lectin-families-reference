@@ -1,0 +1,97 @@
+{
+  "title": "Plant Lectin Families Reference Table",
+  "description": "Reference model sequences and conserved Pfam domains used for the identification of putative genes belonging to plant lectin families",
+  "data": [
+    {
+      "lectin_family": "ABA",
+      "model_organism": "Agaricus bisporus",
+      "lectin_domain": "FB_lectin",
+      "pfam_id": "PF07367",
+      "accession_no": "UniProt: Q00022"
+    },
+    {
+      "lectin_family": "Amaranthin",
+      "model_organism": "Amaranthus caudatus",
+      "lectin_domain": "Agglutinin",
+      "pfam_id": "PF07468",
+      "accession_no": "GenBank: AAL05954.1"
+    },
+    {
+      "lectin_family": "CRA",
+      "model_organism": "Robinia pseudoacacia",
+      "lectin_domain": null,
+      "pfam_id": null,
+      "accession_no": "GenBank: ABL98074.1"
+    },
+    {
+      "lectin_family": "Cyanovirin",
+      "model_organism": "Nostoc ellipsosporum",
+      "lectin_domain": "CVNH",
+      "pfam_id": "PF08881",
+      "accession_no": "UniProt: P81180"
+    },
+    {
+      "lectin_family": "EUL",
+      "model_organism": "Euonymus europaeus",
+      "lectin_domain": null,
+      "pfam_id": null,
+      "accession_no": "GenBank: ABW73993.1"
+    },
+    {
+      "lectin_family": "GNA",
+      "model_organism": "Galanthus nivalis",
+      "lectin_domain": "B_lectin",
+      "pfam_id": "PF01453",
+      "accession_no": "UniProt: P30617"
+    },
+    {
+      "lectin_family": "Hevein",
+      "model_organism": "Hevea brasiliensis",
+      "lectin_domain": "Chitin_bind_1",
+      "pfam_id": "PF00187",
+      "accession_no": "UniProt: P02877"
+    },
+    {
+      "lectin_family": "JRL",
+      "model_organism": "Artocarpus integer",
+      "lectin_domain": "Jacalin",
+      "pfam_id": "PF01419",
+      "accession_no": "GenBank: AAA32680.1"
+    },
+    {
+      "lectin_family": "Legume lectin",
+      "model_organism": "Glycine max",
+      "lectin_domain": "Lectin_legB",
+      "pfam_id": "PF00139",
+      "accession_no": "UniProt: P05046"
+    },
+    {
+      "lectin_family": "LysM",
+      "model_organism": "Brassica juncea",
+      "lectin_domain": "LysM",
+      "pfam_id": "PF01476",
+      "accession_no": "GenBank: BAN83772.1"
+    },
+    {
+      "lectin_family": "Nictaba",
+      "model_organism": "Nicotiana tabacum",
+      "lectin_domain": "PP2",
+      "pfam_id": "PF14299",
+      "accession_no": "GenBank: AAK84134.1"
+    },
+    {
+      "lectin_family": "Ricin B",
+      "model_organism": "Ricinus communis",
+      "lectin_domain": "Ricin_B_lectin",
+      "pfam_id": "PF00652",
+      "accession_no": "GenBank: 2AAI_B"
+    }
+  ],
+  "metadata": {
+    "total_families": 12,
+    "pfam_domains": 10,
+    "created_date": "2026-04-03",
+    "usage": "Genome-wide lectin identification, phylogenetic analysis, functional annotation",
+    "reference": "Van Damme, E. J., Lannoo, N., & Peumans, W. J. (2008). Plant lectins. In Advances in botanical research (pp. 107–209). https://doi.org/10.1016/s0065-2296(08)00403-5"
+  }
+}

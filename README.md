@@ -7,7 +7,7 @@ A comprehensive reference table of plant lectin families with conserved Pfam dom
 This repository provides the lectin reference data in multiple formats:
 
 - **Markdown** (`lectin_reference_table.md`) - Human-readable format
-- **CSV** (`lectin_reference_table.csv`) - For spreadsheet applications and data analysis
+- **CSV** (`lectin_reference_table.xls`) - For spreadsheet applications and data analysis
 - **JSON** (`lectin_reference_table.json`) - For programmatic access and APIs
 
 ## Applications

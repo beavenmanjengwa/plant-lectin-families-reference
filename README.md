@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19409703.svg)](https://doi.org/10.5281/zenodo.19409703)
 # Plant Lectin Families Reference Table
 
 A comprehensive reference table of plant lectin families with conserved Pfam domains, model organisms, and accession numbers for genome-wide lectin identification and phylogenetic analysis.
@@ -27,3 +28,10 @@ All accession numbers and Pfam IDs are from public databases:
 ## Reference
 
 Van Damme, E. J., Lannoo, N., & Peumans, W. J. (2008). Plant lectins. In Advances in botanical research (pp. 107–209). https://doi.org/10.1016/s0065-2296(08)00403-5
+
+## Citation
+
+If you use this reference table, please cite:
+
+Beaven Manjengwa. (2026). beavenmanjengwa/plant-lectin-families-reference: Plant Lectin Families Reference v1.0.1 (v1.0.1). Zenodo. https://doi.org/10.5281/zenodo.19409703
+
